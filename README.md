@@ -22,7 +22,8 @@ cd python-project-49
 
 ## Использование
 
-<!-- Добавьте примеры запуска и запись asciinema — именно это смотрит работодатель -->
+Демонстрация brain-even:
+https://asciinema.org/a/96dtACVZGzv3kdVo
 
 ---
 
