@@ -1,7 +1,7 @@
 install: # синхронизация зависимостей
 	uv sync
 
-brain-games: # запуск программы
+brain-games: # запуск brain-games
 	uv run brain-games
 
 build: # сборка пакета
@@ -13,5 +13,8 @@ package-install: # установка пакета
 lint: # проверка качества кода
 	uv run ruff check brain_games
 
-brain-even:
+brain-even: # запуск brain-even
 	uv run brain-even
+
+brain-calc: # запуск brain-calc
+	uv run brain-calc

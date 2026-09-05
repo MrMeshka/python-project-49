@@ -22,9 +22,11 @@ cd python-project-49
 
 ## Использование
 
-Демонстрация brain-even:
+Demonstration of brain-even:
 https://asciinema.org/a/96dtACVZGzv3kdVo
 
+Demonstration of brain-calc:
+https://asciinema.org/a/OhcJa4MBrJh4p39I
 ---
 
 <details>

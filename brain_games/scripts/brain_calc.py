@@ -1,5 +1,5 @@
 from brain_games.engine import game_engine
-from brain_games.games.brain_even_game import MAX_WINS, RULES, generate_round
+from brain_games.games.brain_calc_game import MAX_WINS, RULES, generate_round
 
 
 def main():
