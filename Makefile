@@ -18,3 +18,6 @@ brain-even: # запуск brain-even
 
 brain-calc: # запуск brain-calc
 	uv run brain-calc
+
+brain-gcd: # запуск brain-gcd
+	uv run brain-gcd

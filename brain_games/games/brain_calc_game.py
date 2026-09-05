@@ -2,8 +2,6 @@ import random
 
 RULES = 'What is the result of the expression?'
 
-MAX_WINS = 3
-
 
 def generate_random_number():
     min_value = 0

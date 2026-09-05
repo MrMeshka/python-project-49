@@ -1,5 +1,5 @@
 from brain_games.engine import game_engine
-from brain_games.games.brain_even_game import RULES, generate_round
+from brain_games.games.brain_gcd_game import RULES, generate_round
 
 
 def main():
@@ -10,4 +10,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()   
+    main()

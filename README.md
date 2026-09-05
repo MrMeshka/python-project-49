@@ -24,9 +24,10 @@ cd python-project-49
 
 Demonstration of brain-even:
 https://asciinema.org/a/96dtACVZGzv3kdVo
-
 Demonstration of brain-calc:
 https://asciinema.org/a/OhcJa4MBrJh4p39I
+Demonstration of brain-gcd:
+https://asciinema.org/a/oPlXuWYvbgpJPalf
 ---
 
 <details>

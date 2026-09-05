@@ -1,7 +1,6 @@
 import random
 
 RULES = 'Answer "yes" if the number is even, otherwise answer "no".'
-MAX_WINS = 3
 
 
 def generate_random_number():

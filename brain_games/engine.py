@@ -2,12 +2,14 @@ import prompt
 
 from brain_games.cli import welcome_user
 
+MAX_WINS = 3
 
-def game_engine(rules, max_wins, generate_round):
+
+def game_engine(rules, generate_round):
     name = welcome_user()
     print(rules)
     questions_count = 0
-    while questions_count < max_wins:
+    while questions_count < MAX_WINS:
         question, correct_answer = generate_round()
         print(f'Question: {question}')
         answer = prompt.string('Your answer: ')
@@ -21,5 +23,5 @@ def game_engine(rules, max_wins, generate_round):
                 )
             print(f"Let's try again, {name}")
             break
-    if questions_count == max_wins:
+    if questions_count == MAX_WINS:
         print(f'Congratulations, {name}!')
