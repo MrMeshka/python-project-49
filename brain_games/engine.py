@@ -21,7 +21,7 @@ def game_engine(rules, generate_round):
                 f"'{answer}' is wrong answer ;(."
                 f"Correct answer was '{correct_answer}'."
                 )
-            print(f"Let's try again, {name}")
+            print(f"Let's try again, {name}!")
             break
     if questions_count == MAX_WINS:
         print(f'Congratulations, {name}!')
