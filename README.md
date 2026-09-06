@@ -22,15 +22,11 @@ cd python-project-49
 
 ## Использование
 
-Demonstration of brain-even:
-https://asciinema.org/a/96dtACVZGzv3kdVo
-Demonstration of brain-calc:
-https://asciinema.org/a/OhcJa4MBrJh4p39I
-Demonstration of brain-gcd:
-https://asciinema.org/a/oPlXuWYvbgpJPalf
-Demonstration of brain-progression:
-https://asciinema.org/a/qn6HEMzDa8LdobW1
-
+- brain-even: https://asciinema.org/a/96dtACVZGzv3kdVo
+- brain-calc: https://asciinema.org/a/OhcJa4MBrJh4p39I
+- brain-gcd: https://asciinema.org/a/oPlXuWYvbgpJPalf
+- brain-progression: https://asciinema.org/a/qn6HEMzDa8LdobW1
+- brain-prime: https://asciinema.org/a/UIadlWa8xpkY6X5P
 ---
 
 <details>

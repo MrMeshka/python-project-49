@@ -24,3 +24,6 @@ brain-gcd: # запуск brain-gcd
 
 brain-progression: # запуск brain-progression
 	uv run brain-progression
+
+brain-prime: # запуск brain-prime
+	uv run brain-prime
