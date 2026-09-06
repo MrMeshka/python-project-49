@@ -21,3 +21,6 @@ brain-calc: # запуск brain-calc
 
 brain-gcd: # запуск brain-gcd
 	uv run brain-gcd
+
+brain-progression: # запуск brain-progression
+	uv run brain-progression

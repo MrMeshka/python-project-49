@@ -28,6 +28,9 @@ Demonstration of brain-calc:
 https://asciinema.org/a/OhcJa4MBrJh4p39I
 Demonstration of brain-gcd:
 https://asciinema.org/a/oPlXuWYvbgpJPalf
+Demonstration of brain-progression:
+https://asciinema.org/a/qn6HEMzDa8LdobW1
+
 ---
 
 <details>
