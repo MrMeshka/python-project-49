@@ -1,7 +1,7 @@
 [project]
 name = "hexlet-code"
 version = "0.1.0"
-description = "Add your description here"
+description = "A collection of console mini-games for the development of mental abilities"
 readme = "README.md"
 authors = [
     { name = "MrMeshka", email = "mrmeshas@gamail.com" }

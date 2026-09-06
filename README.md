@@ -13,7 +13,25 @@
 
 ## Установка
 
-<!-- Опишите установку: клонирование, зависимости, переменные окружения -->
+- Build dist:
+
+```bash
+    make build
+```
+- Install project in system:
+
+```bash
+    make package-install
+```
+- Run games:
+
+```bash
+    brain-even
+    brain-calc
+    brain-gcd
+    brain-progression
+    brain-prime
+```
 
 ```bash
 git clone https://github.com/MrMeshka/python-project-49.git
